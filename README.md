@@ -44,8 +44,8 @@ My design approach was **modular and iterative**. I began with requirement analy
 ---
 
 ## 📂 Repository Link  
-🔗 [View the Project on GitHub](https://github.com/YourGitHubUsername/CS230-GamingRoom)  
-*(Replace with your actual portfolio repository link)*
+🔗 https://github.com/maximowinfield/CS230-TheGamingRoom/edit/main/
+
 
 ---
 
